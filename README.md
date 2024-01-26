@@ -16,7 +16,7 @@ UTOR-VIRT-DATA-PT-08-2023-U-LOLC-MTTH(B)Assignments
 NoSQL Analysis and Exploration - November 2023
 
 ## Student
-Hanns Peter Princivil
+HxP
 
 ## Objectives
 
